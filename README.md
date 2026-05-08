@@ -202,9 +202,3 @@ src/
 ├── model/
 └── Main.java
 ```
-
----
-
-# Author
-
-App Bengkel Lathifah - Sprint 2
