@@ -1,0 +1,16 @@
+*.class
+out/
+bin/
+dist/
+*.jar
+*.exe
+*.zip
+*.db
+bengkel_lathifah.db
+launch4j.log
+AppBengkel.xml
+sources.txt
+manifest.txt
+.DS_Store
+Thumbs.db
+TODO.md
